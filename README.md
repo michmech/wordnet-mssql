@@ -10,6 +10,10 @@ Plus the following "standoff" files, also provided by Princeton University:
 - **The Morphosemantic Database** (semantic relations between morphologically related nouns and verbs), downloaded 22 March 2010
 - **The Teleological Database** (an encoding of the typical activity or purpose for which an artifact was intended), downloaded 22 March 2010
 
+## License
+
+Available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/summary/).
+
 ## Tables in the database
 
 tblSynsets
